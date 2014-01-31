@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#RewriteCond %{HTTP_HOST} .
+RewriteCond %{HTTP_HOST} ^www\.alexb.2sotki\.ru
+RewriteRule (.*) http://alexb.2sotki.ru/$1 [R=301,L]
+
+#RewriteRule ^index\.php$ http://alexb.2sotki.ru/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#редирект на страницы со слэшем
+RewriteRule ^([a-z]*)/page/([0-9]*)$ /$1/page/$2/ [R=301,L]
+RewriteRule ^([a-z]*)/page/([0-9]*)/$ /index.php?section=$1&page=$2
+RewriteRule ^([a-z]*)/detail/([0-9]*).html$ /detail.php?section=$1&annNumber=$2
+
+ErrorDocument 403 /errors/error-403.html
+ErrorDocument 404 /errors/error-404.html
+
+</IfModule>

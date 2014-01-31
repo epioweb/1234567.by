@@ -1,0 +1,89 @@
+a{
+   text-decoration:none;
+}
+a:hover{
+   text-decoration:underline;
+   color:red;
+}
+#ann_column{
+	left: 10%; /* Отступ в процентах от левого края окна */
+	position: absolute; /* Абсолютное позиционирование блока */
+	margin-left: -5%; /* Отрицательный отступ от левого края страницы, должен равняться половине высоты блока со знаком минус */
+}
+#ann_detail_column{
+        width:900px;;
+	left: 50%; /* Отступ в процентах от левого края окна */
+	position: absolute; /* Абсолютное позиционирование блока */
+	margin-left: -30%; /* Отрицательный отступ от левого края страницы, должен равняться половине высоты блока со знаком минус */
+}
+
+
+.list_of_ann {
+	width: 800px; /* Ширина блока */
+}
+.photo-preview{
+   float: left; 
+}
+.ann_preview_photo{
+   height:130px; 
+   width:130px; 
+}
+.ann_detail_photo{
+   height:300px; 
+   width: 410px; 
+}
+.ann_photos{
+   margin: 0 10;
+}
+
+.description{
+   width:60%;
+   float: left; 
+   margin: 0 5;
+}
+.detail_about{
+   width:50%;
+   float:left;
+   border-top: 1px solid black;
+   border-bottom: 1px solid black;
+   margin: 0 5;
+}
+.detail_description{
+   clear:left;
+   margin: 10 20;
+}
+.ann_item{
+   float:left;
+   width:100%; 
+   margin:5px;
+   background : #FFFAF0;
+}
+.detail_ann_item{
+   float:left;
+   margin:5px;
+   background : #FFFAF0;
+}
+.ann_title{
+   
+}
+.detail_title{
+   padding: 0 10px;
+}
+
+.ann_price{
+   margin: 5 0;
+}
+.ann_address{
+   margin: 5 0 0;
+   color: gray;
+}
+#ann_paginator{
+   margin: 10 auto;
+   float: left;
+   clear: left;
+}
+#YMapsID{
+   float:left; 
+   width:250px;
+   height:250px;
+}
