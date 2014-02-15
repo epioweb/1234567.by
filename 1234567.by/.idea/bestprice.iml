@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/activities" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/admin" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/catalog_export" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/components/bitrix" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/gadgets" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/image_uploader" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/images" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/js" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/managed_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/advertising" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/bitrix.sitecommunity" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/bitrix.sitecorporate" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/bitrix.siteinfoportal" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/bitrix.sitepersonal" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/bitrixcloud" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/bizproc" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/bizprocdesigner" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/blog" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/calendar" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/compression" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/form" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/forum" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/idea" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/im" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/learning" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/perfmon" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/photogallery" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/report" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/search" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/security" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/seo" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/socialnetwork" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/socialservices" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/statistic" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/subscribe" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/support" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/translate" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/vote" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/webservice" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/wiki" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/modules/workflow" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/otp" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/panel" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/sounds" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/template" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/themes" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/bitrix/wizards" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+

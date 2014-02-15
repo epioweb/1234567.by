@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20943d95-89ec-479a-bf10-ff3fb772d6dc" name="Default" comment="" />
+    <ignored path="htdocs.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/bluemetal/bluemetal.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112253" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/main/install/bitrix/p3p.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112253" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/schoon/schoon.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112253" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/classic/classic.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/js/fileman/text-overflow.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/simple/simple.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/snel/snel.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/modieus/modieus.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/glow/glow.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/lulu/lulu.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/five/five.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/nacht/nacht.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/bekle/bekle.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/stijl/stijl.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/kleur/kleur.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/beelden/beelden.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112254" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/en/catalog.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/webservice/install/components/bitrix/webservice.statistic/distr/BitrixStat/en/gadget.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/en/idea.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/playcasso/playcasso.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/icecreamsneaka/icecreamsneaka.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/stormtrooper/stormtrooper.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/webservice/install/components/bitrix/webservice.statistic/distr/BitrixStat/gadget.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/en/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/webservice/install/components/bitrix/webservice.statistic/distr/BitrixStat/ru/gadget.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/en/faq.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/fileman/install/components/bitrix/player/mediaplayer/skins/grungetape/grungetape.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/en/catalog_sku.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/ru/catalog.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/en/catalog_prices.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/ru/idea.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/ru/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/ru/faq.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecommunity/install/wizards/bitrix/demo_community/site/services/iblock/xml/ru/group_photogallery.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/ru/catalog_prices.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/themenews.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/user_photogallery.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/board.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/vacancy.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/nationalnews.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_furniture/site/services/iblock/xml/ru/products.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_furniture/site/services/iblock/xml/ru/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_furniture/site/services/iblock/xml/ru/vacancies.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_furniture/site/services/iblock/xml/ru/services.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_services/site/services/iblock/xml/en/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_services/site/services/iblock/xml/en/vacancies.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_services/site/services/iblock/xml/ru/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecorporate/install/wizards/bitrix/corp_services/site/services/iblock/xml/ru/vacancies.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112416" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/resume.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/links.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.eshop/install/wizards/bitrix/eshop/site/services/iblock/xml/ru/catalog_sku.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitecommunity/install/wizards/bitrix/demo_community/site/services/iblock/xml/ru/user_photogallery.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/services/iblock/xml/ru/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/modules/bitrix.sitepersonal/install/wizards/bitrix/demo_personal/site/services/iblock/xml/ru/user_photogallery.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/070_books_books-authors_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/010_services_services-video_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/090_books_books-reviews_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/300_services_services_idea_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/020_news_content-news_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/082_books_books-books_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/200_lists_lists-clients_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/080_books_books-books_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/040_services_services-links_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/010_services_services-master_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/110_paid_paid-articles_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/050_services_services-board_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/060_services_services-faq_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/120_paid_paid-subscribe_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/081_books_books-books_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/106_xmlcatalog_FUTURE-1C-CATALOG_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/102_xmlcatalog_FUTURE-1C-CATALOG_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/120_paid_paid-subscribe-offers_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/101_xmlcatalog_FUTURE-1C-CATALOG_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/103_xmlcatalog_FUTURE-1C-CATALOG_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/105_xmlcatalog_FUTURE-1C-CATALOG_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/080_books_books-books-offers_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/030_articles_content-articles_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/010_services_services-themes_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/100_xmlcatalog_FUTURE-1C-CATALOG_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/104_xmlcatalog_FUTURE-1C-CATALOG_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/iblock/xml/ru/100_xmlcatalog_FUTURE-1C-CATALOG-offers_ru.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res47.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res4.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112417" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res68.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res150.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res67.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res105.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res43.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res77.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res115.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res76.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res28.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res9.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res101.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res135.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res73.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res14.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res48.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res5.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res27.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res131.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res10.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res106.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res44.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res121.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res69.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res116.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res151.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res119.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res1.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res102.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res40.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res39.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res136.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res74.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res112.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res122.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res6.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res3.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res25.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res132.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res70.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res11.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res107.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res45.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res117.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res46.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res152.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res98.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res65.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112418" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res103.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res99.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res137.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res75.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res113.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res7.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res41.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res147.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res26.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res133.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res71.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res12.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res108.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res2.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res109.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res118.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res153.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res111.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res66.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res104.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res42.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res138.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res120.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res114.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res149.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res148.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res64.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res8.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res100.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res134.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res72.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res13.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res110.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res157.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res156.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res165.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res167.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res175.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res177.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res155.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res182.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res185.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res161.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res163.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res173.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res171.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res181.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/en/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res183.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/en/faq.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res158.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/en/catalog.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/en/idea.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res166.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res184.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res176.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/imsmanifest.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112419" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res178.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res154.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res162.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/photogallery/xml/ru/photogallery_user.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res164.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/photogallery/xml/ru/photogallery.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res169.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res172.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res174.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res180.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res170.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res179.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res159.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res186.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res168.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/demo/modules/learning/ru/course/res160.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112420" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/en/catalog_prices.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/ru/catalog_sku.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/ru/idea.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/ru/catalog_prices.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/ru/news.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/ru/faq.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/en/catalog_sku.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/wizards/bitrix/eshop/site/services/iblock/xml/ru/catalog.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/classic/classic.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/snel/snel.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/icecreamsneaka/icecreamsneaka.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/webservice.statistic/distr/BitrixStat/ru/gadget.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/playcasso/playcasso.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/schoon/schoon.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/modieus/modieus.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/grungetape/grungetape.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/bekle/bekle.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/nacht/nacht.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/five/five.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/beelden/beelden.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/simple/simple.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/glow/glow.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/webservice.statistic/distr/BitrixStat/gadget.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/webservice.statistic/distr/BitrixStat/en/gadget.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112439" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/kleur/kleur.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112440" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/lulu/lulu.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112440" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/stijl/stijl.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112440" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/stormtrooper/stormtrooper.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112440" ignored="false" />
+    <file path="$PROJECT_DIR$/bitrix/components/bitrix/player/mediaplayer/skins/bluemetal/bluemetal.xml" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365277112440" ignored="false" />
+    <file path="/header.php" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365920097878" ignored="false" />
+    <file path="/init.php" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365357887284" ignored="false" />
+    <file path="/styles.css" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365937711274" ignored="false" />
+    <file path="/product.html" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365539794531" ignored="false" />
+    <file path="/payment.html" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365486312251" ignored="false" />
+    <file path="/index.html" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365537696642" ignored="false" />
+    <file path="/template.php" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365938480187" ignored="false" />
+    <file path="/index.php" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365922600656" ignored="false" />
+    <file path="/basemeta.php" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365929162394" ignored="false" />
+    <file path="/tools.php" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365924388758" ignored="false" />
+    <file path="/result_modifier.php" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365933481726" ignored="false" />
+    <file path="/script.js" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365937757621" ignored="false" />
+    <file path="/style.css" changelist="20943d95-89ec-479a-bf10-ff3fb772d6dc" time="1365938435650" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="htdocs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bitrix/templates/home/inc/basemeta.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/contacts/script.js" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/contacts/result_modifier.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/contacts/template.php" />
+        <option value="$PROJECT_DIR$/contacts/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/sidebar/template.php" />
+        <option value="$PROJECT_DIR$/sect_news.php" />
+        <option value="$PROJECT_DIR$/news/detail.php" />
+        <option value="$PROJECT_DIR$/news/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/system.pagenavigation/.default/lang/ru/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/system.pagenavigation/.default/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news/script.js" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.detail/news/template.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.detail/news/style.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news/template.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" />
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="bestprice" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <path_mapping local_path="$PROJECT_DIR$" remote_path="$PROJECT_DIR$" />
+        </path_mappings>
+      </server>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php" />
+  <component name="PhpXdebugProxy" host="localhost" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1364" />
+    <option name="y" value="24" />
+    <option name="width" value="1924" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bestprice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bestprice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="htdocs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="editor" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig" serverName="bestprice" serverId="a0c990ff-2468-4d09-ac44-6fba1d810a8e">
+    <servers>
+      <server id="0000eb1b-556d-4802-979f-e24f4e2acad2">
+        <serverdata />
+      </server>
+      <server id="0b0f780f-4e34-465c-8849-42365542194f">
+        <serverdata />
+      </server>
+      <server id="0dbd9e0a-307d-48f5-82d9-e8aefb741e79">
+        <serverdata />
+      </server>
+      <server id="123391fe-4b3c-4ec8-9aae-ccc3598c0e78">
+        <serverdata />
+      </server>
+      <server id="340cb4dc-11f3-408b-9d97-c7fd25be2f92">
+        <serverdata />
+      </server>
+      <server id="5a4b173c-db02-4455-9f4b-4d330ae7149e">
+        <serverdata />
+      </server>
+      <server id="83b84a7a-5e7f-440b-92b3-42a14d9cd392">
+        <serverdata />
+      </server>
+      <server id="a0c990ff-2468-4d09-ac44-6fba1d810a8e">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="a1d06a16-d8d2-444a-9a13-4be4388179cb">
+        <serverdata />
+      </server>
+      <server id="aa8a9820-9249-4bb2-9f1f-4d5b8674cb97">
+        <serverdata />
+      </server>
+      <server id="e47b0e48-183e-451a-916c-054742f44bb7">
+        <serverdata />
+      </server>
+      <server id="e876dd8d-d73e-4451-99ea-9607b920bb1d">
+        <serverdata />
+      </server>
+      <server id="e8a0a7f5-39ab-40d8-810d-da2775a0a76a">
+        <serverdata />
+      </server>
+      <server id="fbb399cc-22c1-43ea-84e8-689b31c9b329">
+        <serverdata />
+      </server>
+      <server id="fcaf8201-7a23-4850-9794-a26bb3d4f09a">
+        <serverdata />
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/menu/top" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/menu/footer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.bestprice contacts">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/about/index.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="bestprice">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" server_name="localhost">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="localhost">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="a0c990ff-2468-4d09-ac44-6fba1d810a8e" server_name="bestprice">
+      <method />
+    </configuration>
+    <configuration default="false" name="bestprice" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="localhost" start_url="http://bestprice/">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="bestprice contacts" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="localhost" start_url="http://bestprice/contacts/">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Web Application.bestprice" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Web Application.bestprice contacts" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20943d95-89ec-479a-bf10-ff3fb772d6dc" name="Default" comment="" />
+      <created>1365276854819</created>
+      <updated>1365276854819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1364" y="24" width="1924" height="1060" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13660619" sideWeight="0.37991267" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6200873" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/contacts/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="19" selection-start="557" selection-end="557" vertical-scroll-proportion="0.23787528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/contacts/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="33" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.18591224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/contacts/result_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="9" selection-start="1885" selection-end="1885" vertical-scroll-proportion="0.5099648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/sidebar/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="0" selection-end="611" vertical-scroll-proportion="0.25981525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sect_news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="33" selection-start="0" selection-end="1180" vertical-scroll-proportion="0.46766743" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="41" selection-start="2212" selection-end="2212" vertical-scroll-proportion="-24.375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="23" selection-start="648" selection-end="648" vertical-scroll-proportion="-13.125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/system.pagenavigation/forum/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="35" selection-start="0" selection-end="6145" vertical-scroll-proportion="-11.25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/system.pagenavigation/.default/lang/ru/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/system.pagenavigation/.default/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="26" selection-start="356" selection-end="356" vertical-scroll-proportion="0.13856813" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="31" selection-start="13497" selection-end="13497" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="86" selection-start="600" selection-end="600" vertical-scroll-proportion="0.19053118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.detail/news/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="35" selection-start="539" selection-end="553" vertical-scroll-proportion="0.10550997" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.detail/news/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="24" selection-start="153" selection-end="153" vertical-scroll-proportion="0.15168539" />
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,61 @@
+.hidden {display: none;}
+.send-note-window {
+    text-align:left;
+}
+
+.send-note-window .preview {
+    color:#999999;
+    margin-bottom:1em;
+}
+
+.send-note-window textarea {
+    resize: vertical;
+    width:96%!important;
+}
+
+.area { width:100%!important;}
+
+.send-note-window h2 {
+    margin:0 0 0.5em;
+}
+
+.send-note-window img {
+    border: 0;
+    float: none;
+    margin:0;
+    padding:0;
+}
+
+.link_cancel_20110618{
+	margin: 0.6em 0 0 8em;
+}
+
+.required {
+    font-weight:bold;
+    color:red;
+}
+
+.send-note-window .blue_block {
+    margin-bottom:0;
+}
+
+.capch_img{
+    cursor: pointer;
+    vertical-align: top;
+}
+input[name="captcha_word"] {
+    font-size: 20px;
+    height: 19px;
+    width: 70px;
+}
+.capch {
+    margin:20px 0;
+}
+#send-note .info-item .label-area {width: 150px; padding-right: 0;}
+.input-block .captcha-input input[type="text"] {font-size: 18px; margin-right: 5px; height: 20px; border: 1px solid #ccc; padding:9px;}
+.input-block .captcha-input img {margin-right: 10px;}
+.input-block {margin-bottom: 20px;}
+
+.captcha-input img {vertical-align: middle;}
+.content .attention-area {margin-top:20px; font-size: 11px; color: #A5A5A5;}
+.content .attention-area p {margin-bottom:3px;}
